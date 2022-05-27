@@ -1,5 +1,5 @@
 # wolbEstab
-Strategies to Mitigate Establishment Using the Wolbachia Incompatible Insect Technique
+Strategies to Mitigate Establishment Under the Wolbachia Incompatible Insect Technique
 
 Contributors: Stacy Soh<sup>1</sup>, Soon Hoe Ho<sup>1</sup>, Janet Ong<sup>1</sup>, Annabel Seah<sup>1</sup>,  Borame Sue Dickens<sup>2</sup>, Ken Wei Tan<sup>2</sup>, Joel Ruihan Koo<sup>2</sup>, Alex R Cook<sup>2</sup>, Sim Shuzhen<sup>1</sup>, Tan Cheong Huat<sup>1</sup>, Lee Ching Ng<sup>1,3</sup>,  Jue Tao Lim<sup>1,2</sup>
 ## Affliations
